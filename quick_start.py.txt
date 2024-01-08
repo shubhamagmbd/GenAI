@@ -1,4 +1,4 @@
-#Note: The openai-python library support for Azure OpenAI is in preview.
+#Note: The openai-python library support for Azure OpenAI is in preview..
 import os
 import openai
 openai.api_type = "azure"
